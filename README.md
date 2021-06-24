@@ -27,7 +27,7 @@ Roadmap:
 6. Profit!!
 
 ---
-[*boilerplate stuff to upadte later*]
+[*boilerplate stuff to update later*]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
